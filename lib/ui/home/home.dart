@@ -17,7 +17,7 @@ class MusicApp extends StatelessWidget {
       theme: ThemeData(
           useMaterial3: true,
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple)),
-      home: MusicHomePage(),
+      home: const MusicHomePage(),
     );
   }
 }
