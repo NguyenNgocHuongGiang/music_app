@@ -1,6 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<<<<<<< HEAD
     <uses-permission android:name="android.permission.INTERNET" />
 
+=======
+>>>>>>> b0bce9b21b3c70b7e1baf5421d14f4d04adf109a
     <application
         android:label="music_app"
         android:name="${applicationName}"
